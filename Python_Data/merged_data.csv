@@ -1,0 +1,413 @@
+StudentID,Name,Extracurricular Activities,School Year,District,City,State,Grade,Math Score,Reading Score,Math Tutor,Math Tutor Hours,Math Tutor Period,Reading Tutor,Reading Tutor Hours,Reading Tutor Period
+1,Joannes Cahen,0,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,389,256,0,0.0,0.0,0,0.0,0.0
+1,Joannes Cahen,0,2023-2024,Alderwood County Schools,Pompano Beach,FL,12,378,262,Ella Simmons,6.0,3.0,Avery Foster,28.0,5.0
+2,Rhodia Cockell,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,405,184,0,0.0,0.0,Olivia Simmons,5.0,2.0
+2,Rhodia Cockell,Music,2023-2024,Alderwood County Schools,Pompano Beach,FL,11,419,186,Ella Simmons,6.0,3.0,Olivia Simmons,6.0,5.0
+3,Kit Osler,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,11,135,196,Henry Cooper,17.0,6.0,Henry Cooper,18.0,2.0
+3,Kit Osler,Music,2023-2024,Alderwood County Schools,Pompano Beach,FL,11,147,201,Henry Cooper,19.0,1.0,Henry Cooper,17.0,3.0
+9,Robinett Gallimore,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,459,183,James Turner,4.0,1.0,Logan Carter,14.0,5.0
+9,Robinett Gallimore,Music,2023-2024,Alderwood County Schools,Pompano Beach,FL,10,465,210,James Turner,5.0,2.0,Logan Carter,16.0,2.0
+12,Prent Laffan,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,425,121,Ethan Morgan,32.0,1.0,Aria Peterson,37.0,5.0
+13,Albert Stentiford,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,10,419,124,Ethan Morgan,32.0,1.0,Emily Foster,29.0,5.0
+13,Albert Stentiford,Music,2023-2024,Alderwood County Schools,Pompano Beach,FL,10,427,147,Ethan Morgan,34.0,6.0,Emily Foster,30.0,2.0
+24,Chelsey Ravens,Sports,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,140,179,Daniel Wright,5.0,2.0,Daniel Wright,32.0,2.0
+30,Curran Lindenman,Debate,2022-2023,Alderwood County Schools,Pompano Beach,FL,10,306,120,Nicholas Turner,30.0,4.0,Matthew Hughes,31.0,4.0
+30,Curran Lindenman,Debate,2023-2024,Alderwood County Schools,Pompano Beach,FL,11,312,114,Nicholas Turner,33.0,4.0,Matthew Hughes,34.0,1.0
+34,Kendall Muggeridge,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,11,150,193,Ethan Morgan,28.0,4.0,Ethan Morgan,20.0,4.0
+34,Kendall Muggeridge,Music,2023-2024,Alderwood County Schools,Pompano Beach,FL,11,141,241,Ethan Morgan,28.0,3.0,Ethan Morgan,23.0,3.0
+35,Darrelle MacTague,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,177,192,Victoria Richardson,39.0,3.0,Victoria Richardson,13.0,2.0
+35,Darrelle MacTague,Music,2023-2024,Alderwood County Schools,Pompano Beach,FL,12,216,242,Victoria Richardson,40.0,2.0,Victoria Richardson,15.0,1.0
+40,Dinny Cordeiro,Debate,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,363,159,Mia Richardson,36.0,3.0,Chloe Rivera,20.0,2.0
+40,Dinny Cordeiro,Debate,2023-2024,Alderwood County Schools,Pompano Beach,FL,10,368,146,Mia Richardson,36.0,1.0,Chloe Rivera,19.0,1.0
+42,Filmer Pauel,Sports,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,248,193,Mia Richardson,36.0,3.0,Abigail Nelson,9.0,1.0
+47,Dreddy Spours,Music,2022-2023,Alderwood County Schools,Pompano Beach,FL,10,306,132,Mia Richardson,36.0,3.0,Avery Foster,29.0,2.0
+47,Dreddy Spours,Music,2023-2024,Alderwood County Schools,Pompano Beach,FL,10,321,164,Mia Richardson,36.0,1.0,Avery Foster,30.0,3.0
+50,Demetrius Boshers,Sports,2022-2023,Alderwood County Schools,Pompano Beach,FL,9,139,160,Christopher Price,24.0,4.0,Christopher Price,40.0,3.0
+50,Demetrius Boshers,Sports,2023-2024,Alderwood County Schools,Pompano Beach,FL,11,179,180,Christopher Price,26.0,3.0,Christopher Price,41.0,3.0
+51,Paddy Server,Music,2022-2023,Aspen Ridge Public Education,Grand Junction,CO,10,458,312,Christopher Price,24.0,4.0,Christopher Price,40.0,3.0
+51,Paddy Server,Music,2023-2024,Aspen Ridge Public Education,Grand Junction,CO,11,454,316,Christopher Price,26.0,3.0,Christopher Price,41.0,3.0
+52,Rodolph Ismirnioglou,Music,2022-2023,Aspen Ridge Public Education,Grand Junction,CO,9,195,196,Sofia Reed,12.0,2.0,Sofia Reed,8.0,6.0
+52,Rodolph Ismirnioglou,Music,2023-2024,Aspen Ridge Public Education,Grand Junction,CO,10,220,196,Sofia Reed,11.0,5.0,Sofia Reed,7.0,1.0
+77,Franchot Kemery,Music,2022-2023,Aspen Ridge Public Education,Grand Junction,CO,9,360,135,Lily Bennett,15.0,3.0,Matthew Hughes,12.0,4.0
+77,Franchot Kemery,Music,2023-2024,Aspen Ridge Public Education,Grand Junction,CO,12,373,134,Lily Bennett,15.0,5.0,Matthew Hughes,13.0,3.0
+78,Olly Scrimgeour,Other,2022-2023,Aspen Ridge Public Education,Grand Junction,CO,11,188,148,Scarlett Parker,16.0,6.0,Scarlett Parker,25.0,2.0
+78,Olly Scrimgeour,Other,2023-2024,Aspen Ridge Public Education,Grand Junction,CO,10,188,192,Scarlett Parker,16.0,3.0,Scarlett Parker,26.0,2.0
+86,Marlow Tewkesberrie,Other,2022-2023,Aspen Ridge Public Education,Grand Junction,CO,11,257,193,Michael Adams,29.0,6.0,Avery Foster,2.0,4.0
+92,Lane Kennaway,Other,2022-2023,Aspen Ridge Public Education,Grand Junction,CO,9,369,145,Lily Bennett,39.0,5.0,Alexander Gray,38.0,1.0
+92,Lane Kennaway,Other,2023-2024,Aspen Ridge Public Education,Grand Junction,CO,12,359,172,Lily Bennett,42.0,2.0,Alexander Gray,37.0,4.0
+94,Norby Feltoe,Other,2022-2023,Aspen Ridge Public Education,Grand Junction,CO,11,434,197,Lily Bennett,39.0,5.0,Victoria Richardson,33.0,2.0
+94,Norby Feltoe,Other,2023-2024,Aspen Ridge Public Education,Grand Junction,CO,10,429,188,Lily Bennett,42.0,2.0,Victoria Richardson,32.0,3.0
+101,Kendrick Yair,Drama,2022-2023,Birchwood Regional District,Gainesville,FL,10,208,500,Lily Bennett,39.0,5.0,Victoria Richardson,33.0,2.0
+101,Kendrick Yair,Drama,2023-2024,Birchwood Regional District,Gainesville,FL,11,209,509,Lily Bennett,42.0,2.0,Victoria Richardson,32.0,3.0
+103,Benetta Puller,Drama,2022-2023,Birchwood Regional District,Gainesville,FL,11,318,186,Lily Bennett,39.0,5.0,Alexander Gray,30.0,1.0
+103,Benetta Puller,Drama,2023-2024,Birchwood Regional District,Gainesville,FL,11,304,227,Lily Bennett,42.0,2.0,Alexander Gray,29.0,6.0
+111,Brit Franzolini,Music,2022-2023,Birchwood Regional District,Gainesville,FL,11,289,164,Elizabeth Scott,27.0,2.0,William Carter,21.0,1.0
+111,Brit Franzolini,Music,2023-2024,Birchwood Regional District,Gainesville,FL,12,295,166,Elizabeth Scott,26.0,6.0,William Carter,24.0,5.0
+116,Hannie Tullis,Music,2022-2023,Birchwood Regional District,Gainesville,FL,9,371,155,Elizabeth Scott,27.0,2.0,Emily Foster,2.0,4.0
+116,Hannie Tullis,Music,2023-2024,Birchwood Regional District,Gainesville,FL,11,376,161,Elizabeth Scott,26.0,6.0,Emily Foster,5.0,6.0
+124,Drucill Mouatt,Other,2022-2023,Birchwood Regional District,Gainesville,FL,11,309,194,Samuel Gray,19.0,5.0,Daniel Morgan,33.0,5.0
+124,Drucill Mouatt,Other,2023-2024,Birchwood Regional District,Gainesville,FL,11,319,189,Samuel Gray,20.0,1.0,Daniel Morgan,32.0,2.0
+133,Nico Chesser,Other,2022-2023,Birchwood Regional District,Gainesville,FL,9,407,133,Alexander Gray,10.0,5.0,Chloe Rivera,21.0,4.0
+137,Nerta Gianinotti,Sports,2022-2023,Birchwood Regional District,Gainesville,FL,11,252,168,Alexander Gray,10.0,5.0,Henry Cooper,25.0,2.0
+137,Nerta Gianinotti,Sports,2023-2024,Birchwood Regional District,Gainesville,FL,11,240,173,Alexander Gray,13.0,6.0,Henry Cooper,28.0,2.0
+139,Meryl Chicotti,Sports,2022-2023,Birchwood Regional District,Gainesville,FL,9,441,144,Alexander Gray,10.0,5.0,Charlotte Peterson,15.0,1.0
+139,Meryl Chicotti,Sports,2023-2024,Birchwood Regional District,Gainesville,FL,12,435,167,Alexander Gray,13.0,6.0,Charlotte Peterson,14.0,4.0
+143,Sherie Tredgold,Drama,2022-2023,Birchwood Regional District,Gainesville,FL,9,338,145,Alexander Gray,10.0,5.0,Amelia Brooks,5.0,2.0
+143,Sherie Tredgold,Drama,2023-2024,Birchwood Regional District,Gainesville,FL,10,353,175,Alexander Gray,13.0,6.0,Amelia Brooks,4.0,2.0
+146,Stace Sivills,Sports,2022-2023,Birchwood Regional District,Gainesville,FL,9,310,137,Alexander Gray,10.0,5.0,Joseph Coleman,40.0,6.0
+146,Stace Sivills,Sports,2023-2024,Birchwood Regional District,Gainesville,FL,11,300,117,Alexander Gray,13.0,6.0,Joseph Coleman,39.0,1.0
+148,Darby Zmitruk,Sports,2022-2023,Birchwood Regional District,Gainesville,FL,10,459,193,Alexander Gray,10.0,5.0,David Mitchell,3.0,4.0
+148,Darby Zmitruk,Sports,2023-2024,Birchwood Regional District,Gainesville,FL,11,472,235,Alexander Gray,13.0,6.0,David Mitchell,2.0,2.0
+149,Issie Abbatini,Music,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,11,247,297,Alexander Gray,10.0,5.0,David Mitchell,3.0,4.0
+149,Issie Abbatini,Music,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,11,258,306,Alexander Gray,13.0,6.0,David Mitchell,2.0,2.0
+152,Denys Colhoun,Music,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,9,339,137,Scarlett Parker,20.0,2.0,Matthew Hughes,17.0,3.0
+152,Denys Colhoun,Music,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,11,344,156,Scarlett Parker,21.0,6.0,Matthew Hughes,19.0,6.0
+153,Wakefield Armitage,Music,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,9,356,147,Scarlett Parker,20.0,2.0,Christopher Price,20.0,3.0
+153,Wakefield Armitage,Music,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,10,351,160,Scarlett Parker,21.0,6.0,Christopher Price,23.0,1.0
+161,Shannon Milsap,Other,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,10,493,165,Evelyn Mitchell,11.0,2.0,Samuel Gray,22.0,4.0
+161,Shannon Milsap,Other,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,12,484,207,Evelyn Mitchell,11.0,1.0,Samuel Gray,24.0,1.0
+164,Madelena Colwill,Drama,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,11,161,181,Noah Hayes,15.0,2.0,Noah Hayes,3.0,2.0
+164,Madelena Colwill,Drama,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,12,175,167,Noah Hayes,18.0,4.0,Noah Hayes,2.0,3.0
+172,Launce Fanstone,Debate,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,9,234,167,Sophia Reynolds,34.0,4.0,Elizabeth Scott,23.0,3.0
+172,Launce Fanstone,Debate,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,12,230,193,Sophia Reynolds,36.0,3.0,Elizabeth Scott,25.0,3.0
+176,Gladi Candie,Drama,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,9,184,186,Ethan Morgan,6.0,1.0,Ethan Morgan,7.0,2.0
+176,Gladi Candie,Drama,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,10,167,192,Ethan Morgan,7.0,6.0,Ethan Morgan,8.0,4.0
+177,Alexandro Carruth,Music,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,11,287,183,Ethan Morgan,6.0,1.0,Daniel Morgan,11.0,2.0
+177,Alexandro Carruth,Music,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,12,274,201,Ethan Morgan,7.0,6.0,Daniel Morgan,14.0,4.0
+179,Morry Bettles,Debate,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,11,158,128,Mia Richardson,15.0,2.0,Mia Richardson,18.0,5.0
+179,Morry Bettles,Debate,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,10,196,153,Mia Richardson,15.0,3.0,Mia Richardson,17.0,5.0
+180,Alanah Lakenton,Music,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,9,180,139,Olivia Simmons,24.0,6.0,Olivia Simmons,8.0,6.0
+180,Alanah Lakenton,Music,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,10,168,130,Olivia Simmons,24.0,2.0,Olivia Simmons,7.0,5.0
+192,Dari Gonnin,Music,2022-2023,Birchwood Springs Independent Schools,Cleveland,OH,11,498,140,Matthew Hughes,38.0,5.0,Mia Richardson,26.0,6.0
+192,Dari Gonnin,Music,2023-2024,Birchwood Springs Independent Schools,Cleveland,OH,10,487,120,Matthew Hughes,39.0,3.0,Mia Richardson,28.0,5.0
+193,Godard Gurnell,Music,2022-2023,Cedar Grove Educational Association,Birmingham,AL,11,479,267,Matthew Hughes,38.0,5.0,Mia Richardson,26.0,6.0
+193,Godard Gurnell,Music,2023-2024,Cedar Grove Educational Association,Birmingham,AL,11,487,270,Matthew Hughes,39.0,3.0,Mia Richardson,28.0,5.0
+197,Estella Leggatt,Debate,2022-2023,Cedar Grove Educational Association,Birmingham,AL,9,368,192,Scarlett Parker,27.0,3.0,Amelia Brooks,30.0,4.0
+197,Estella Leggatt,Debate,2023-2024,Cedar Grove Educational Association,Birmingham,AL,12,363,213,Scarlett Parker,28.0,3.0,Amelia Brooks,31.0,6.0
+198,Maia Kerans,Debate,2022-2023,Cedar Grove Educational Association,Birmingham,AL,10,409,148,Scarlett Parker,27.0,3.0,Ethan Morgan,12.0,5.0
+207,Violante Cruft,Other,2022-2023,Cedar Grove Educational Association,Birmingham,AL,10,226,124,Logan Carter,4.0,5.0,Ethan Morgan,13.0,1.0
+209,Lazar Puddin,Drama,2022-2023,Cedar Grove Educational Association,Birmingham,AL,11,375,175,Victoria Richardson,27.0,4.0,Evelyn Mitchell,31.0,2.0
+209,Lazar Puddin,Drama,2023-2024,Cedar Grove Educational Association,Birmingham,AL,12,374,221,Victoria Richardson,28.0,4.0,Evelyn Mitchell,30.0,2.0
+217,Derward Findlow,Other,2022-2023,Cedar Grove Educational Association,Birmingham,AL,9,171,194,Joshua Butler,28.0,1.0,Joshua Butler,16.0,5.0
+222,Itch Romanski,Debate,2022-2023,Cedar Grove Educational Association,Birmingham,AL,9,378,123,David Mitchell,24.0,2.0,Andrew Ross,19.0,1.0
+222,Itch Romanski,Debate,2023-2024,Cedar Grove Educational Association,Birmingham,AL,10,366,148,David Mitchell,23.0,4.0,Andrew Ross,21.0,3.0
+225,Mab Linggood,Music,2022-2023,Cedar Grove Educational Association,Birmingham,AL,11,282,145,David Mitchell,24.0,2.0,Lily Bennett,17.0,6.0
+225,Mab Linggood,Music,2023-2024,Cedar Grove Educational Association,Birmingham,AL,11,293,158,David Mitchell,23.0,4.0,Lily Bennett,18.0,3.0
+233,Lauralee Baggally,Music,2022-2023,Cedar Grove Educational Association,Birmingham,AL,10,265,171,Noah Hayes,39.0,6.0,William Carter,6.0,4.0
+233,Lauralee Baggally,Music,2023-2024,Cedar Grove Educational Association,Birmingham,AL,10,280,214,Noah Hayes,42.0,2.0,William Carter,7.0,4.0
+235,Wilmar Howsden,Debate,2022-2023,Cedar Grove Educational Association,Birmingham,AL,9,460,193,Noah Hayes,39.0,6.0,Joshua Butler,35.0,6.0
+235,Wilmar Howsden,Debate,2023-2024,Cedar Grove Educational Association,Birmingham,AL,11,447,226,Noah Hayes,42.0,2.0,Joshua Butler,36.0,5.0
+240,Alethea Marzellano,Debate,2022-2023,Cedar Grove Educational Association,Birmingham,AL,10,408,185,Noah Hayes,39.0,6.0,Daniel Morgan,3.0,6.0
+243,Ferd Curling,Drama,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,10,213,293,Ava Parker,36.0,5.0,Daniel Morgan,3.0,6.0
+246,Stanfield Van Haeften,Drama,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,11,397,184,Alexander Gray,30.0,3.0,Evelyn Mitchell,21.0,1.0
+246,Stanfield Van Haeften,Drama,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,11,401,180,Alexander Gray,32.0,1.0,Evelyn Mitchell,23.0,2.0
+253,Berke Poulton,Drama,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,132,124,Alexander Gray,11.0,5.0,Alexander Gray,3.0,5.0
+253,Berke Poulton,Drama,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,12,141,129,Alexander Gray,12.0,5.0,Alexander Gray,6.0,2.0
+257,Ann-marie Whimpenny,Other,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,331,156,Evelyn Mitchell,8.0,5.0,Daniel Morgan,23.0,6.0
+257,Ann-marie Whimpenny,Other,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,10,342,174,Evelyn Mitchell,11.0,6.0,Daniel Morgan,25.0,5.0
+268,Rora Anderl,Music,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,10,430,175,Chloe Rivera,13.0,1.0,Mia Richardson,6.0,6.0
+268,Rora Anderl,Music,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,10,445,191,Chloe Rivera,16.0,3.0,Mia Richardson,7.0,3.0
+275,Kaylil Attwool,Sports,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,10,332,178,Grace Murphy,28.0,4.0,Olivia Simmons,19.0,4.0
+275,Kaylil Attwool,Sports,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,10,322,161,Grace Murphy,27.0,4.0,Olivia Simmons,21.0,3.0
+276,John Managh,Sports,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,479,152,Grace Murphy,28.0,4.0,Olivia Simmons,4.0,3.0
+276,John Managh,Sports,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,11,490,189,Grace Murphy,27.0,4.0,Olivia Simmons,6.0,4.0
+278,Ilka Kenington,Debate,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,10,480,146,Grace Murphy,28.0,4.0,Benjamin Cooper,36.0,2.0
+278,Ilka Kenington,Debate,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,10,472,171,Grace Murphy,27.0,4.0,Benjamin Cooper,37.0,5.0
+280,Armand Thalmann,Sports,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,10,311,165,Daniel Morgan,10.0,6.0,Scarlett Parker,35.0,1.0
+280,Armand Thalmann,Sports,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,12,302,186,Daniel Morgan,11.0,6.0,Scarlett Parker,38.0,5.0
+281,Georgina Fellini,Debate,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,432,160,Daniel Morgan,10.0,6.0,Noah Hayes,32.0,3.0
+281,Georgina Fellini,Debate,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,10,420,207,Daniel Morgan,11.0,6.0,Noah Hayes,31.0,1.0
+285,Barclay Naisbit,Drama,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,305,196,Joseph Coleman,19.0,1.0,Noah Hayes,5.0,3.0
+285,Barclay Naisbit,Drama,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,10,319,243,Joseph Coleman,18.0,3.0,Noah Hayes,8.0,5.0
+286,Dorella Soldan,Drama,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,378,129,Joseph Coleman,19.0,1.0,Aria Peterson,31.0,5.0
+286,Dorella Soldan,Drama,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,12,391,156,Joseph Coleman,18.0,3.0,Aria Peterson,33.0,3.0
+287,Aleksandr Rack,Other,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,158,123,Samuel Gray,25.0,6.0,Samuel Gray,14.0,3.0
+287,Aleksandr Rack,Other,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,11,146,158,Samuel Gray,27.0,1.0,Samuel Gray,13.0,5.0
+292,Steward Mulleary,Music,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,10,210,191,Samuel Gray,25.0,6.0,Amelia Brooks,34.0,5.0
+292,Steward Mulleary,Music,2023-2024,Cedarwood Independent Schools,Fort Worth,TX,12,218,204,Samuel Gray,27.0,1.0,Amelia Brooks,37.0,1.0
+294,Cammi Dukelow,Music,2022-2023,Cedarwood Independent Schools,Fort Worth,TX,9,210,144,Samuel Gray,25.0,6.0,Avery Foster,15.0,5.0
+299,Madelena Gowdridge,Debate,2022-2023,Cypress Creek County Schools,San Angelo,TX,11,168,173,David Mitchell,5.0,5.0,David Mitchell,21.0,2.0
+299,Madelena Gowdridge,Debate,2023-2024,Cypress Creek County Schools,San Angelo,TX,10,196,171,David Mitchell,6.0,3.0,David Mitchell,22.0,4.0
+302,Ariana Duchart,Debate,2022-2023,Cypress Creek County Schools,San Angelo,TX,11,149,123,Lily Bennett,8.0,1.0,Lily Bennett,35.0,4.0
+302,Ariana Duchart,Debate,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,139,129,Lily Bennett,11.0,3.0,Lily Bennett,37.0,2.0
+304,Alyss Teape,Music,2022-2023,Cypress Creek County Schools,San Angelo,TX,11,301,183,Lily Bennett,8.0,1.0,Mia Richardson,30.0,1.0
+304,Alyss Teape,Music,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,290,192,Lily Bennett,11.0,3.0,Mia Richardson,29.0,5.0
+314,Brodie Carloni,Debate,2022-2023,Cypress Creek County Schools,San Angelo,TX,11,448,167,Andrew Ross,2.0,1.0,Daniel Morgan,31.0,5.0
+314,Brodie Carloni,Debate,2023-2024,Cypress Creek County Schools,San Angelo,TX,10,434,150,Andrew Ross,4.0,3.0,Daniel Morgan,33.0,4.0
+316,Nial Balsellie,Debate,2022-2023,Cypress Creek County Schools,San Angelo,TX,11,206,197,Andrew Ross,2.0,1.0,Benjamin Cooper,25.0,1.0
+316,Nial Balsellie,Debate,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,197,195,Andrew Ross,4.0,3.0,Benjamin Cooper,26.0,3.0
+321,Quint Cordobes,Sports,2022-2023,Cypress Creek County Schools,San Angelo,TX,10,250,199,Mia Richardson,30.0,5.0,Daniel Morgan,29.0,5.0
+321,Quint Cordobes,Sports,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,254,228,Mia Richardson,30.0,1.0,Daniel Morgan,28.0,6.0
+322,Pail Prichard,Debate,2022-2023,Cypress Creek County Schools,San Angelo,TX,11,349,125,Mia Richardson,30.0,5.0,Ethan Morgan,39.0,5.0
+322,Pail Prichard,Debate,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,351,156,Mia Richardson,30.0,1.0,Ethan Morgan,40.0,1.0
+325,Irvine Bedson,Sports,2022-2023,Cypress Creek County Schools,San Angelo,TX,9,153,184,Noah Hayes,34.0,2.0,Noah Hayes,3.0,3.0
+325,Irvine Bedson,Sports,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,202,228,Noah Hayes,35.0,4.0,Noah Hayes,2.0,2.0
+335,Leonanie Andreassen,Music,2022-2023,Cypress Creek County Schools,San Angelo,TX,9,133,149,David Mitchell,7.0,5.0,David Mitchell,38.0,2.0
+335,Leonanie Andreassen,Music,2023-2024,Cypress Creek County Schools,San Angelo,TX,12,120,152,David Mitchell,8.0,5.0,David Mitchell,37.0,6.0
+337,Robinson Geaney,Sports,2022-2023,Cypress Creek County Schools,San Angelo,TX,11,349,151,David Mitchell,7.0,5.0,Henry Cooper,27.0,4.0
+337,Robinson Geaney,Sports,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,349,147,David Mitchell,8.0,5.0,Henry Cooper,29.0,3.0
+343,Thornton Nappin,Drama,2022-2023,Cypress Creek County Schools,San Angelo,TX,10,327,198,Liam Foster,4.0,6.0,Daniel Wright,20.0,4.0
+343,Thornton Nappin,Drama,2023-2024,Cypress Creek County Schools,San Angelo,TX,12,337,178,Liam Foster,4.0,1.0,Daniel Wright,21.0,3.0
+348,Winnie Turnor,Debate,2022-2023,Cypress Creek County Schools,San Angelo,TX,9,211,196,Liam Foster,4.0,6.0,Avery Foster,38.0,5.0
+348,Winnie Turnor,Debate,2023-2024,Cypress Creek County Schools,San Angelo,TX,11,213,244,Liam Foster,4.0,1.0,Avery Foster,39.0,6.0
+349,Bonnee Leward,Debate,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,10,290,247,Liam Foster,4.0,6.0,Avery Foster,38.0,5.0
+349,Bonnee Leward,Debate,2023-2024,Elmwood Heights Public Schools,Santa Barbara,CA,12,289,251,Liam Foster,4.0,1.0,Avery Foster,39.0,6.0
+353,Genni Moyce,Sports,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,9,120,177,Daniel Morgan,26.0,6.0,Daniel Morgan,39.0,3.0
+353,Genni Moyce,Sports,2023-2024,Elmwood Heights Public Schools,Santa Barbara,CA,11,138,221,Daniel Morgan,29.0,3.0,Daniel Morgan,38.0,4.0
+374,Jimmie Linck,Debate,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,10,244,125,Mia Richardson,21.0,2.0,Scarlett Parker,24.0,5.0
+374,Jimmie Linck,Debate,2023-2024,Elmwood Heights Public Schools,Santa Barbara,CA,10,255,136,Mia Richardson,22.0,4.0,Scarlett Parker,25.0,5.0
+379,Cullen Daddow,Sports,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,11,127,146,Michael Adams,22.0,6.0,Michael Adams,28.0,6.0
+379,Cullen Daddow,Sports,2023-2024,Elmwood Heights Public Schools,Santa Barbara,CA,12,168,175,Michael Adams,21.0,1.0,Michael Adams,29.0,6.0
+380,Darcie Couth,Sports,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,11,180,130,Harper Ward,11.0,2.0,Harper Ward,9.0,4.0
+381,Benita Noraway,Sports,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,10,470,159,Harper Ward,11.0,2.0,Samuel Gray,27.0,6.0
+384,Berk Benmore,Other,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,9,422,161,William Carter,22.0,1.0,Chloe Rivera,20.0,1.0
+385,Donni Brogioni,Music,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,10,131,189,Ella Simmons,9.0,5.0,Ella Simmons,11.0,2.0
+385,Donni Brogioni,Music,2023-2024,Elmwood Heights Public Schools,Santa Barbara,CA,11,114,201,Ella Simmons,9.0,4.0,Ella Simmons,12.0,1.0
+396,Domingo Ekkel,Drama,2022-2023,Elmwood Heights Public Schools,Santa Barbara,CA,10,362,166,David Mitchell,25.0,5.0,Ethan Morgan,8.0,3.0
+397,Sondra Rotherforth,Drama,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,10,253,297,David Mitchell,25.0,5.0,Ethan Morgan,8.0,3.0
+401,Peggie Betun,Sports,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,9,445,177,Ava Parker,39.0,4.0,Benjamin Cooper,28.0,6.0
+407,Lewiss Hawkeswood,Drama,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,10,364,120,Ava Parker,39.0,4.0,Olivia Simmons,27.0,2.0
+408,Austina Whissell,Drama,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,10,268,191,Ava Parker,39.0,4.0,Samuel Gray,27.0,6.0
+408,Austina Whissell,Drama,2023-2024,Hawthorn Valley Unified,Cheyenne,WY,12,283,195,Ava Parker,39.0,4.0,Samuel Gray,28.0,3.0
+414,Louisette Goodwins,Sports,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,9,275,185,William Carter,25.0,4.0,Elizabeth Scott,14.0,1.0
+414,Louisette Goodwins,Sports,2023-2024,Hawthorn Valley Unified,Cheyenne,WY,12,265,195,William Carter,24.0,5.0,Elizabeth Scott,17.0,6.0
+425,Heda Benedick,Music,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,10,476,195,Scarlett Parker,24.0,5.0,Grace Murphy,18.0,6.0
+425,Heda Benedick,Music,2023-2024,Hawthorn Valley Unified,Cheyenne,WY,11,483,224,Scarlett Parker,26.0,4.0,Grace Murphy,19.0,6.0
+428,Boniface Woodcroft,Sports,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,11,122,134,Lily Bennett,21.0,5.0,Lily Bennett,4.0,3.0
+428,Boniface Woodcroft,Sports,2023-2024,Hawthorn Valley Unified,Cheyenne,WY,10,129,151,Lily Bennett,21.0,5.0,Lily Bennett,7.0,5.0
+431,Daryle Bircher,Other,2022-2023,Hawthorn Valley Unified,Cheyenne,WY,10,254,154,Samuel Gray,25.0,4.0,Nicholas Turner,4.0,5.0
+431,Daryle Bircher,Other,2023-2024,Hawthorn Valley Unified,Cheyenne,WY,12,250,184,Samuel Gray,26.0,5.0,Nicholas Turner,3.0,1.0
+436,Jeffy Pessel,Other,2022-2023,Juniper Falls School Board,Longview,TX,9,477,252,Joshua Butler,30.0,3.0,Nicholas Turner,4.0,5.0
+436,Jeffy Pessel,Other,2023-2024,Juniper Falls School Board,Longview,TX,11,462,263,Joshua Butler,30.0,1.0,Nicholas Turner,3.0,1.0
+438,Boothe Cockayne,Other,2022-2023,Juniper Falls School Board,Longview,TX,10,466,197,Joshua Butler,30.0,3.0,Daniel Wright,10.0,2.0
+438,Boothe Cockayne,Other,2023-2024,Juniper Falls School Board,Longview,TX,10,474,232,Joshua Butler,30.0,1.0,Daniel Wright,12.0,2.0
+440,Leonardo Semrad,Music,2022-2023,Juniper Falls School Board,Longview,TX,10,167,164,Nicholas Turner,11.0,5.0,Nicholas Turner,13.0,3.0
+441,Dena Wisker,Drama,2022-2023,Juniper Falls School Board,Longview,TX,10,320,125,Nicholas Turner,11.0,5.0,Elizabeth Scott,40.0,4.0
+441,Dena Wisker,Drama,2023-2024,Juniper Falls School Board,Longview,TX,11,320,126,Nicholas Turner,10.0,4.0,Elizabeth Scott,42.0,1.0
+447,Fee McClay,Debate,2022-2023,Juniper Falls School Board,Longview,TX,10,136,141,Michael Adams,30.0,3.0,Michael Adams,35.0,1.0
+448,Salvidor Croose,Debate,2022-2023,Juniper Falls School Board,Longview,TX,10,413,179,Michael Adams,30.0,3.0,Ryan Hayes,34.0,5.0
+448,Salvidor Croose,Debate,2023-2024,Juniper Falls School Board,Longview,TX,10,413,179,Michael Adams,29.0,6.0,Ryan Hayes,37.0,6.0
+454,Lane Tewkesbury.,Other,2022-2023,Juniper Falls School Board,Longview,TX,9,330,157,Ryan Hayes,8.0,4.0,Evelyn Mitchell,29.0,1.0
+454,Lane Tewkesbury.,Other,2023-2024,Juniper Falls School Board,Longview,TX,10,334,143,Ryan Hayes,8.0,1.0,Evelyn Mitchell,31.0,5.0
+459,Bamby MacGhee,Music,2022-2023,Juniper Falls School Board,Longview,TX,11,132,196,William Carter,37.0,6.0,William Carter,29.0,2.0
+459,Bamby MacGhee,Music,2023-2024,Juniper Falls School Board,Longview,TX,12,176,216,William Carter,40.0,2.0,William Carter,28.0,5.0
+466,Pyotr Ivett,Debate,2022-2023,Juniper Falls School Board,Longview,TX,11,186,146,Sofia Reed,37.0,4.0,Sofia Reed,2.0,3.0
+468,Leupold Driver,Other,2022-2023,Juniper Falls School Board,Longview,TX,10,407,195,Sofia Reed,37.0,4.0,Scarlett Parker,17.0,4.0
+468,Leupold Driver,Other,2023-2024,Juniper Falls School Board,Longview,TX,10,393,234,Sofia Reed,39.0,5.0,Scarlett Parker,16.0,6.0
+475,Margeaux Cogar,Drama,2022-2023,Juniper Falls School Board,Longview,TX,9,497,184,Ella Simmons,35.0,3.0,Grace Murphy,4.0,6.0
+488,Reta Killock,Debate,2022-2023,Laurelwood Township District,Hyattsville,MD,9,278,370,Alexander Gray,40.0,1.0,Grace Murphy,4.0,6.0
+503,Corissa Gilder,Music,2022-2023,Laurelwood Township District,Hyattsville,MD,10,168,158,David Mitchell,40.0,4.0,David Mitchell,30.0,6.0
+503,Corissa Gilder,Music,2023-2024,Laurelwood Township District,Hyattsville,MD,11,182,174,David Mitchell,43.0,1.0,David Mitchell,33.0,4.0
+507,Olivier de Keep,Sports,2022-2023,Laurelwood Township District,Hyattsville,MD,10,417,146,Sophia Reynolds,20.0,5.0,Liam Foster,19.0,2.0
+507,Olivier de Keep,Sports,2023-2024,Laurelwood Township District,Hyattsville,MD,11,405,187,Sophia Reynolds,20.0,2.0,Liam Foster,22.0,4.0
+516,Morse Binning,Debate,2022-2023,Laurelwood Township District,Hyattsville,MD,10,442,162,Sophia Reynolds,20.0,5.0,Grace Murphy,7.0,2.0
+516,Morse Binning,Debate,2023-2024,Laurelwood Township District,Hyattsville,MD,11,431,188,Sophia Reynolds,20.0,2.0,Grace Murphy,10.0,5.0
+521,Addy Carrabot,Drama,2022-2023,Laurelwood Township District,Hyattsville,MD,9,203,176,Sophia Reynolds,20.0,5.0,Abigail Nelson,20.0,6.0
+521,Addy Carrabot,Drama,2023-2024,Laurelwood Township District,Hyattsville,MD,10,196,204,Sophia Reynolds,20.0,2.0,Abigail Nelson,21.0,4.0
+522,Sonny Finby,Sports,2022-2023,Laurelwood Township District,Hyattsville,MD,11,244,151,Sophia Reynolds,20.0,5.0,Scarlett Parker,23.0,4.0
+522,Sonny Finby,Sports,2023-2024,Laurelwood Township District,Hyattsville,MD,10,243,199,Sophia Reynolds,20.0,2.0,Scarlett Parker,22.0,1.0
+524,Shell Otridge,Debate,2022-2023,Laurelwood Township District,Hyattsville,MD,11,327,199,Sophia Reynolds,20.0,5.0,Amelia Brooks,37.0,2.0
+524,Shell Otridge,Debate,2023-2024,Laurelwood Township District,Hyattsville,MD,12,337,199,Sophia Reynolds,20.0,2.0,Amelia Brooks,39.0,6.0
+529,Dallon Capper,Debate,2022-2023,Laurelwood Township District,Hyattsville,MD,10,391,145,Daniel Wright,33.0,2.0,Amelia Brooks,32.0,3.0
+529,Dallon Capper,Debate,2023-2024,Laurelwood Township District,Hyattsville,MD,10,400,163,Daniel Wright,36.0,6.0,Amelia Brooks,35.0,6.0
+536,Massimiliano Dresche,Sports,2022-2023,Magnolia Springs School District,Knoxville,TN,9,210,324,Andrew Ross,6.0,2.0,Amelia Brooks,32.0,3.0
+536,Massimiliano Dresche,Sports,2023-2024,Magnolia Springs School District,Knoxville,TN,11,220,333,Andrew Ross,5.0,5.0,Amelia Brooks,35.0,6.0
+542,Winonah Mainz,Debate,2022-2023,Magnolia Springs School District,Knoxville,TN,11,488,136,William Carter,2.0,2.0,Ava Parker,9.0,6.0
+543,Charlot Wolters,Sports,2022-2023,Magnolia Springs School District,Knoxville,TN,10,313,181,William Carter,2.0,2.0,Abigail Nelson,4.0,6.0
+543,Charlot Wolters,Sports,2023-2024,Magnolia Springs School District,Knoxville,TN,12,298,178,William Carter,1.0,4.0,Abigail Nelson,3.0,6.0
+554,Jana Davidoff,Drama,2022-2023,Magnolia Springs School District,Knoxville,TN,10,274,137,Isabella Bennett,20.0,3.0,Grace Murphy,30.0,4.0
+554,Jana Davidoff,Drama,2023-2024,Magnolia Springs School District,Knoxville,TN,10,281,138,Isabella Bennett,19.0,3.0,Grace Murphy,31.0,1.0
+556,Fara Boadby,Sports,2022-2023,Magnolia Springs School District,Knoxville,TN,9,404,135,Isabella Bennett,20.0,3.0,Scarlett Parker,40.0,2.0
+556,Fara Boadby,Sports,2023-2024,Magnolia Springs School District,Knoxville,TN,12,410,145,Isabella Bennett,19.0,3.0,Scarlett Parker,43.0,3.0
+558,Morty Milne,Music,2022-2023,Magnolia Springs School District,Knoxville,TN,10,218,156,Isabella Bennett,20.0,3.0,Michael Adams,28.0,5.0
+563,Flint Ramberg,Music,2022-2023,Magnolia Springs School District,Knoxville,TN,11,216,155,Liam Foster,30.0,1.0,Andrew Ross,29.0,4.0
+563,Flint Ramberg,Music,2023-2024,Magnolia Springs School District,Knoxville,TN,12,211,170,Liam Foster,30.0,2.0,Andrew Ross,30.0,6.0
+569,Kiley Muro,Sports,2022-2023,Magnolia Springs School District,Knoxville,TN,10,452,193,Sofia Reed,12.0,4.0,James Turner,24.0,4.0
+569,Kiley Muro,Sports,2023-2024,Magnolia Springs School District,Knoxville,TN,10,449,236,Sofia Reed,14.0,4.0,James Turner,27.0,3.0
+571,Sergeant Rivenzon,Sports,2022-2023,Magnolia Springs School District,Knoxville,TN,10,306,123,Sofia Reed,12.0,4.0,James Turner,29.0,3.0
+571,Sergeant Rivenzon,Sports,2023-2024,Magnolia Springs School District,Knoxville,TN,11,295,137,Sofia Reed,14.0,4.0,James Turner,32.0,6.0
+575,Marcelle Degan,Music,2022-2023,Magnolia Springs School District,Knoxville,TN,9,225,137,James Turner,10.0,2.0,Ava Parker,13.0,1.0
+575,Marcelle Degan,Music,2023-2024,Magnolia Springs School District,Knoxville,TN,10,234,142,James Turner,12.0,6.0,Ava Parker,16.0,5.0
+576,Quent Stappard,Music,2022-2023,Magnolia Springs School District,Knoxville,TN,9,150,130,Grace Murphy,11.0,3.0,Grace Murphy,28.0,3.0
+579,Al Hintzer,Sports,2022-2023,Magnolia Springs School District,Knoxville,TN,10,263,166,Ava Parker,5.0,3.0,Benjamin Cooper,19.0,1.0
+579,Al Hintzer,Sports,2023-2024,Magnolia Springs School District,Knoxville,TN,10,255,206,Ava Parker,8.0,5.0,Benjamin Cooper,18.0,4.0
+580,Yasmeen Vasilov,Sports,2022-2023,Magnolia Springs School District,Knoxville,TN,11,123,127,Nicholas Turner,9.0,6.0,Nicholas Turner,32.0,3.0
+580,Yasmeen Vasilov,Sports,2023-2024,Magnolia Springs School District,Knoxville,TN,12,154,132,Nicholas Turner,12.0,5.0,Nicholas Turner,35.0,5.0
+591,Berk Crate,Debate,2022-2023,Maple Ridge Central District,New Haven,CT,11,433,428,Scarlett Parker,25.0,5.0,Nicholas Turner,32.0,3.0
+591,Berk Crate,Debate,2023-2024,Maple Ridge Central District,New Haven,CT,10,420,415,Scarlett Parker,24.0,3.0,Nicholas Turner,35.0,5.0
+596,Adolph Paffot,Other,2022-2023,Maple Ridge Central District,New Haven,CT,11,403,183,Scarlett Parker,25.0,5.0,Mia Richardson,17.0,4.0
+596,Adolph Paffot,Other,2023-2024,Maple Ridge Central District,New Haven,CT,11,407,176,Scarlett Parker,24.0,3.0,Mia Richardson,16.0,3.0
+605,Annissa Caselli,Drama,2022-2023,Maple Ridge Central District,New Haven,CT,10,438,183,Aria Peterson,18.0,4.0,Joseph Coleman,19.0,4.0
+605,Annissa Caselli,Drama,2023-2024,Maple Ridge Central District,New Haven,CT,11,431,165,Aria Peterson,17.0,2.0,Joseph Coleman,21.0,5.0
+614,Selena Tetley,Other,2022-2023,Maple Ridge Central District,New Haven,CT,11,289,124,Benjamin Cooper,32.0,5.0,Chloe Rivera,24.0,1.0
+615,Blondelle Urpeth,Drama,2022-2023,Maple Ridge Central District,New Haven,CT,11,279,169,Benjamin Cooper,32.0,5.0,William Carter,16.0,5.0
+615,Blondelle Urpeth,Drama,2023-2024,Maple Ridge Central District,New Haven,CT,12,273,185,Benjamin Cooper,31.0,3.0,William Carter,15.0,2.0
+620,Adlai Fakeley,Drama,2022-2023,Maple Ridge Central District,New Haven,CT,10,176,148,Chloe Rivera,35.0,3.0,Chloe Rivera,25.0,4.0
+621,Duke Mugridge,Drama,2022-2023,Maple Ridge Central District,New Haven,CT,9,456,131,Chloe Rivera,35.0,3.0,Nicholas Turner,13.0,6.0
+621,Duke Mugridge,Drama,2023-2024,Maple Ridge Central District,New Haven,CT,12,459,165,Chloe Rivera,35.0,2.0,Nicholas Turner,15.0,1.0
+628,Ondrea Camplen,Debate,2022-2023,Maple Ridge Central District,New Haven,CT,11,333,161,Matthew Hughes,7.0,6.0,Ava Parker,19.0,1.0
+628,Ondrea Camplen,Debate,2023-2024,Maple Ridge Central District,New Haven,CT,12,332,147,Matthew Hughes,9.0,5.0,Ava Parker,18.0,4.0
+629,Nikolos McFadzean,Debate,2022-2023,Maple Ridge Central District,New Haven,CT,9,258,164,Matthew Hughes,7.0,6.0,Daniel Wright,38.0,6.0
+632,Roley Vamplew,Drama,2022-2023,Maple Ridge Central District,New Haven,CT,10,394,179,Scarlett Parker,20.0,1.0,Joseph Coleman,32.0,2.0
+632,Roley Vamplew,Drama,2023-2024,Maple Ridge Central District,New Haven,CT,11,402,162,Scarlett Parker,21.0,3.0,Joseph Coleman,34.0,1.0
+634,Kaela Cridlin,Other,2022-2023,Maple Ridge Central District,New Haven,CT,9,178,126,James Turner,15.0,5.0,James Turner,14.0,4.0
+634,Kaela Cridlin,Other,2023-2024,Maple Ridge Central District,New Haven,CT,12,183,138,James Turner,18.0,6.0,James Turner,16.0,6.0
+635,Tymothy Snaden,Music,2022-2023,Maple Ridge Central District,New Haven,CT,10,321,163,James Turner,15.0,5.0,Elizabeth Scott,13.0,1.0
+635,Tymothy Snaden,Music,2023-2024,Maple Ridge Central District,New Haven,CT,11,330,208,James Turner,18.0,6.0,Elizabeth Scott,12.0,4.0
+637,Theodore Broadbridge,Music,2022-2023,Maple Ridge Central District,New Haven,CT,11,250,194,Sofia Reed,36.0,6.0,Ryan Hayes,20.0,5.0
+637,Theodore Broadbridge,Music,2023-2024,Maple Ridge Central District,New Haven,CT,10,243,178,Sofia Reed,37.0,1.0,Ryan Hayes,22.0,5.0
+641,Tess Notton,Music,2022-2023,Oakwood County School System,Phoenix,AZ,9,253,303,Sofia Reed,36.0,6.0,Ryan Hayes,20.0,5.0
+641,Tess Notton,Music,2023-2024,Oakwood County School System,Phoenix,AZ,10,261,304,Sofia Reed,37.0,1.0,Ryan Hayes,22.0,5.0
+652,Lucho McCrum,Drama,2022-2023,Oakwood County School System,Phoenix,AZ,10,480,133,Isabella Bennett,2.0,5.0,Ryan Hayes,9.0,5.0
+652,Lucho McCrum,Drama,2023-2024,Oakwood County School System,Phoenix,AZ,12,495,172,Isabella Bennett,1.0,3.0,Ryan Hayes,12.0,6.0
+655,Eba Peiser,Music,2022-2023,Oakwood County School System,Phoenix,AZ,9,254,122,Isabella Bennett,2.0,5.0,Ella Simmons,7.0,6.0
+656,George Harman,Music,2022-2023,Oakwood County School System,Phoenix,AZ,9,264,179,Isabella Bennett,2.0,5.0,Emily Foster,22.0,5.0
+656,George Harman,Music,2023-2024,Oakwood County School System,Phoenix,AZ,11,272,193,Isabella Bennett,1.0,3.0,Emily Foster,24.0,3.0
+657,Candi Rizzetti,Drama,2022-2023,Oakwood County School System,Phoenix,AZ,11,128,148,Ryan Hayes,40.0,5.0,Ryan Hayes,14.0,5.0
+657,Candi Rizzetti,Drama,2023-2024,Oakwood County School System,Phoenix,AZ,10,128,172,Ryan Hayes,40.0,3.0,Ryan Hayes,13.0,3.0
+659,Jecho Dumbreck,Drama,2022-2023,Oakwood County School System,Phoenix,AZ,10,243,139,Noah Hayes,36.0,5.0,Ryan Hayes,4.0,2.0
+659,Jecho Dumbreck,Drama,2023-2024,Oakwood County School System,Phoenix,AZ,10,235,149,Noah Hayes,35.0,5.0,Ryan Hayes,5.0,1.0
+661,Phillipe Aberhart,Drama,2022-2023,Oakwood County School System,Phoenix,AZ,9,437,158,Abigail Nelson,18.0,4.0,Harper Ward,7.0,1.0
+664,Nikita Jannasch,Debate,2022-2023,Oakwood County School System,Phoenix,AZ,10,365,165,Sofia Reed,12.0,3.0,Alexander Gray,17.0,3.0
+664,Nikita Jannasch,Debate,2023-2024,Oakwood County School System,Phoenix,AZ,11,378,151,Sofia Reed,15.0,4.0,Alexander Gray,18.0,1.0
+665,Minetta Harry,Music,2022-2023,Oakwood County School System,Phoenix,AZ,11,199,183,Abigail Nelson,22.0,5.0,Abigail Nelson,25.0,2.0
+668,Hyman Syddon,Music,2022-2023,Oakwood County School System,Phoenix,AZ,11,265,142,Abigail Nelson,22.0,5.0,Michael Adams,26.0,1.0
+668,Hyman Syddon,Music,2023-2024,Oakwood County School System,Phoenix,AZ,12,264,166,Abigail Nelson,21.0,4.0,Michael Adams,27.0,6.0
+670,Web Twaite,Music,2022-2023,Oakwood County School System,Phoenix,AZ,10,306,157,Ava Parker,5.0,6.0,Matthew Hughes,26.0,5.0
+670,Web Twaite,Music,2023-2024,Oakwood County School System,Phoenix,AZ,12,310,199,Ava Parker,8.0,3.0,Matthew Hughes,25.0,6.0
+671,Hinda Wybourne,Debate,2022-2023,Oakwood County School System,Phoenix,AZ,10,152,153,Joshua Butler,11.0,6.0,Joshua Butler,4.0,1.0
+671,Hinda Wybourne,Debate,2023-2024,Oakwood County School System,Phoenix,AZ,11,186,178,Joshua Butler,12.0,2.0,Joshua Butler,6.0,5.0
+682,Elita Kilmurry,Music,2022-2023,Oakwood County School System,Phoenix,AZ,9,449,151,Abigail Nelson,3.0,6.0,Lily Bennett,14.0,6.0
+682,Elita Kilmurry,Music,2023-2024,Oakwood County School System,Phoenix,AZ,12,460,177,Abigail Nelson,6.0,2.0,Lily Bennett,16.0,5.0
+692,Gertrud Moyles,Other,2022-2023,Pinecrest Educational Consortium,Marietta,GA,10,420,487,Mia Richardson,12.0,6.0,Lily Bennett,14.0,6.0
+692,Gertrud Moyles,Other,2023-2024,Pinecrest Educational Consortium,Marietta,GA,10,417,485,Mia Richardson,15.0,4.0,Lily Bennett,16.0,5.0
+695,Elka Paskerful,Music,2022-2023,Pinecrest Educational Consortium,Marietta,GA,10,439,131,Mia Richardson,12.0,6.0,Lily Bennett,12.0,3.0
+695,Elka Paskerful,Music,2023-2024,Pinecrest Educational Consortium,Marietta,GA,11,444,167,Mia Richardson,15.0,4.0,Lily Bennett,15.0,5.0
+696,Archambault Spickett,Music,2022-2023,Pinecrest Educational Consortium,Marietta,GA,10,385,132,Mia Richardson,12.0,6.0,Sophia Reynolds,38.0,1.0
+696,Archambault Spickett,Music,2023-2024,Pinecrest Educational Consortium,Marietta,GA,12,390,136,Mia Richardson,15.0,4.0,Sophia Reynolds,41.0,5.0
+701,Harrison Liddington,Other,2022-2023,Pinecrest Educational Consortium,Marietta,GA,10,288,167,Mia Richardson,12.0,6.0,Ryan Hayes,10.0,5.0
+701,Harrison Liddington,Other,2023-2024,Pinecrest Educational Consortium,Marietta,GA,10,296,211,Mia Richardson,15.0,4.0,Ryan Hayes,9.0,5.0
+707,Hort Quartermain,Music,2022-2023,Pinecrest Educational Consortium,Marietta,GA,9,374,194,Amelia Brooks,6.0,1.0,Ryan Hayes,14.0,4.0
+707,Hort Quartermain,Music,2023-2024,Pinecrest Educational Consortium,Marietta,GA,10,370,244,Amelia Brooks,5.0,4.0,Ryan Hayes,15.0,3.0
+714,Ebenezer Etty,Debate,2022-2023,Pinecrest Educational Consortium,Marietta,GA,9,311,187,Sophia Reynolds,38.0,4.0,Ella Simmons,26.0,6.0
+714,Ebenezer Etty,Debate,2023-2024,Pinecrest Educational Consortium,Marietta,GA,12,318,226,Sophia Reynolds,39.0,6.0,Ella Simmons,25.0,3.0
+720,Chelsea Oliphand,Sports,2022-2023,Pinecrest Educational Consortium,Marietta,GA,11,202,173,Charlotte Peterson,2.0,1.0,Ava Parker,12.0,1.0
+720,Chelsea Oliphand,Sports,2023-2024,Pinecrest Educational Consortium,Marietta,GA,10,215,201,Charlotte Peterson,1.0,4.0,Ava Parker,15.0,3.0
+724,Kaela Sloane,Other,2022-2023,Pinecrest Educational Consortium,Marietta,GA,11,194,164,Sofia Reed,13.0,2.0,Sofia Reed,7.0,5.0
+724,Kaela Sloane,Other,2023-2024,Pinecrest Educational Consortium,Marietta,GA,11,222,200,Sofia Reed,14.0,4.0,Sofia Reed,9.0,4.0
+728,Tadio Cohrs,Drama,2022-2023,Pinecrest Educational Consortium,Marietta,GA,10,230,197,Sofia Reed,13.0,2.0,Alexander Gray,29.0,1.0
+728,Tadio Cohrs,Drama,2023-2024,Pinecrest Educational Consortium,Marietta,GA,11,215,226,Sofia Reed,14.0,4.0,Alexander Gray,31.0,4.0
+732,Brandyn Bensusan,Debate,2022-2023,Pinecrest Educational Consortium,Marietta,GA,10,249,125,Avery Foster,7.0,1.0,David Mitchell,10.0,5.0
+732,Brandyn Bensusan,Debate,2023-2024,Pinecrest Educational Consortium,Marietta,GA,11,263,106,Avery Foster,6.0,6.0,David Mitchell,12.0,6.0
+737,Abbe Warrillow,Sports,2022-2023,Pinecrest Educational Consortium,Marietta,GA,11,405,141,Chloe Rivera,3.0,3.0,Ryan Hayes,19.0,4.0
+737,Abbe Warrillow,Sports,2023-2024,Pinecrest Educational Consortium,Marietta,GA,10,393,125,Chloe Rivera,3.0,4.0,Ryan Hayes,18.0,6.0
+742,Inna Vellender,Music,2022-2023,Pinecrest Educational Consortium,Marietta,GA,11,197,196,Amelia Brooks,36.0,1.0,Amelia Brooks,35.0,2.0
+742,Inna Vellender,Music,2023-2024,Pinecrest Educational Consortium,Marietta,GA,10,247,233,Amelia Brooks,36.0,1.0,Amelia Brooks,34.0,2.0
+743,Frederik Brugemann,Music,2022-2023,Redwood Grove Educational Network,Reno,NV,11,409,248,Amelia Brooks,36.0,1.0,Amelia Brooks,35.0,2.0
+743,Frederik Brugemann,Music,2023-2024,Redwood Grove Educational Network,Reno,NV,11,409,254,Amelia Brooks,36.0,1.0,Amelia Brooks,34.0,2.0
+745,Shay Rumming,Music,2022-2023,Redwood Grove Educational Network,Reno,NV,9,463,151,Amelia Brooks,36.0,1.0,Ethan Morgan,13.0,1.0
+752,Kirstyn Tremblet,Drama,2022-2023,Redwood Grove Educational Network,Reno,NV,9,484,144,Amelia Brooks,36.0,1.0,Sophia Reynolds,32.0,6.0
+752,Kirstyn Tremblet,Drama,2023-2024,Redwood Grove Educational Network,Reno,NV,10,496,137,Amelia Brooks,36.0,1.0,Sophia Reynolds,31.0,1.0
+754,Annabela Fanshaw,Drama,2022-2023,Redwood Grove Educational Network,Reno,NV,10,221,153,Amelia Brooks,36.0,1.0,Isabella Bennett,16.0,4.0
+754,Annabela Fanshaw,Drama,2023-2024,Redwood Grove Educational Network,Reno,NV,10,225,197,Amelia Brooks,36.0,1.0,Isabella Bennett,15.0,5.0
+761,Penelope Tomkowicz,Music,2022-2023,Redwood Grove Educational Network,Reno,NV,11,193,175,Evelyn Mitchell,14.0,5.0,Evelyn Mitchell,16.0,3.0
+761,Penelope Tomkowicz,Music,2023-2024,Redwood Grove Educational Network,Reno,NV,12,181,204,Evelyn Mitchell,14.0,6.0,Evelyn Mitchell,19.0,2.0
+765,Massimo Whiscard,Sports,2022-2023,Redwood Grove Educational Network,Reno,NV,10,465,177,Evelyn Mitchell,14.0,5.0,Alexander Gray,24.0,5.0
+765,Massimo Whiscard,Sports,2023-2024,Redwood Grove Educational Network,Reno,NV,12,454,169,Evelyn Mitchell,14.0,6.0,Alexander Gray,27.0,5.0
+770,Gearard Stokoe,Music,2022-2023,Redwood Grove Educational Network,Reno,NV,11,204,153,Evelyn Mitchell,14.0,5.0,Olivia Simmons,39.0,2.0
+770,Gearard Stokoe,Music,2023-2024,Redwood Grove Educational Network,Reno,NV,10,216,200,Evelyn Mitchell,14.0,6.0,Olivia Simmons,40.0,6.0
+776,Papagena Gristhwaite,Music,2022-2023,Redwood Grove Educational Network,Reno,NV,11,489,132,Ryan Hayes,30.0,5.0,Avery Foster,14.0,5.0
+777,Winslow Tessington,Music,2022-2023,Redwood Grove Educational Network,Reno,NV,10,394,159,Ryan Hayes,30.0,5.0,Daniel Morgan,38.0,5.0
+777,Winslow Tessington,Music,2023-2024,Redwood Grove Educational Network,Reno,NV,11,401,194,Ryan Hayes,30.0,5.0,Daniel Morgan,37.0,5.0
+778,Athena Hoolaghan,Sports,2022-2023,Redwood Grove Educational Network,Reno,NV,11,161,170,Mia Richardson,40.0,2.0,Mia Richardson,11.0,5.0
+780,Omero McCroft,Other,2022-2023,Redwood Grove Educational Network,Reno,NV,11,459,160,Mia Richardson,40.0,2.0,Avery Foster,40.0,3.0
+780,Omero McCroft,Other,2023-2024,Redwood Grove Educational Network,Reno,NV,10,450,158,Mia Richardson,41.0,2.0,Avery Foster,39.0,2.0
+785,Luz Siburn,Sports,2022-2023,Redwood Grove Educational Network,Reno,NV,10,124,171,Ethan Morgan,7.0,6.0,Ethan Morgan,40.0,5.0
+785,Luz Siburn,Sports,2023-2024,Redwood Grove Educational Network,Reno,NV,12,104,212,Ethan Morgan,10.0,3.0,Ethan Morgan,43.0,2.0
+796,Brier Emby,Debate,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,10,317,165,Liam Foster,4.0,5.0,Michael Adams,38.0,5.0
+796,Brier Emby,Debate,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,10,311,212,Liam Foster,7.0,5.0,Michael Adams,40.0,2.0
+807,Cal Turgoose,Other,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,11,392,143,Scarlett Parker,36.0,2.0,Scarlett Parker,35.0,1.0
+807,Cal Turgoose,Other,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,10,379,145,Scarlett Parker,35.0,5.0,Scarlett Parker,36.0,2.0
+809,Cedric Overel,Other,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,10,445,186,Scarlett Parker,36.0,2.0,Christopher Price,33.0,1.0
+813,Brina Abrahami,Other,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,10,491,136,Joseph Coleman,14.0,2.0,Matthew Hughes,4.0,3.0
+813,Brina Abrahami,Other,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,12,488,127,Joseph Coleman,14.0,6.0,Matthew Hughes,6.0,2.0
+816,Danielle Canny,Drama,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,11,356,140,Joseph Coleman,14.0,2.0,David Mitchell,24.0,4.0
+816,Danielle Canny,Drama,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,10,363,156,Joseph Coleman,14.0,6.0,David Mitchell,25.0,6.0
+818,Drucill Boorne,Drama,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,11,196,169,Avery Foster,3.0,4.0,Avery Foster,23.0,5.0
+818,Drucill Boorne,Drama,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,12,222,214,Avery Foster,3.0,5.0,Avery Foster,22.0,3.0
+821,Bari Rysom,Music,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,9,305,156,Avery Foster,3.0,4.0,Ethan Morgan,7.0,5.0
+821,Bari Rysom,Music,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,12,300,146,Avery Foster,3.0,5.0,Ethan Morgan,9.0,4.0
+822,Carr Houdhury,Music,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,9,370,194,Avery Foster,3.0,4.0,Abigail Nelson,8.0,2.0
+822,Carr Houdhury,Music,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,12,359,236,Avery Foster,3.0,5.0,Abigail Nelson,11.0,4.0
+831,Elise Dumberell,Sports,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,11,193,182,James Turner,5.0,5.0,James Turner,19.0,3.0
+831,Elise Dumberell,Sports,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,12,174,191,James Turner,4.0,4.0,James Turner,21.0,2.0
+834,Padget Cruxton,Sports,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,11,260,152,James Turner,5.0,5.0,Ava Parker,22.0,5.0
+838,Gordy Glander,Sports,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,9,343,198,James Turner,5.0,5.0,Daniel Wright,20.0,6.0
+838,Gordy Glander,Sports,2023-2024,Sunflower Hills Independent Schools,Green Bay,WI,10,331,238,James Turner,4.0,4.0,Daniel Wright,22.0,5.0
+842,Winslow Jovasevic,Drama,2022-2023,Sunflower Hills Independent Schools,Green Bay,WI,11,272,143,Matthew Hughes,33.0,1.0,Isabella Bennett,34.0,2.0
+847,Lazaro Dmitrovic,Drama,2022-2023,Sycamore Ridge Unified,New York City,NY,10,178,148,Sophia Reynolds,27.0,6.0,Sophia Reynolds,34.0,1.0
+847,Lazaro Dmitrovic,Drama,2023-2024,Sycamore Ridge Unified,New York City,NY,10,189,188,Sophia Reynolds,28.0,6.0,Sophia Reynolds,37.0,1.0
+849,Ossie Bentame,Drama,2022-2023,Sycamore Ridge Unified,New York City,NY,10,357,157,Sophia Reynolds,27.0,6.0,Evelyn Mitchell,24.0,3.0
+849,Ossie Bentame,Drama,2023-2024,Sycamore Ridge Unified,New York City,NY,10,352,204,Sophia Reynolds,28.0,6.0,Evelyn Mitchell,25.0,3.0
+850,Bryon Goldney,Drama,2022-2023,Sycamore Ridge Unified,New York City,NY,10,305,126,Sophia Reynolds,27.0,6.0,Ethan Morgan,8.0,3.0
+850,Bryon Goldney,Drama,2023-2024,Sycamore Ridge Unified,New York City,NY,10,296,107,Sophia Reynolds,28.0,6.0,Ethan Morgan,7.0,3.0
+851,Oneida Tweed,Drama,2022-2023,Sycamore Ridge Unified,New York City,NY,11,310,145,Sophia Reynolds,27.0,6.0,William Carter,26.0,2.0
+857,Jerome Dawdry,Music,2022-2023,Sycamore Ridge Unified,New York City,NY,11,500,141,Sophia Reynolds,27.0,6.0,Isabella Bennett,11.0,2.0
+857,Jerome Dawdry,Music,2023-2024,Sycamore Ridge Unified,New York City,NY,12,499,191,Sophia Reynolds,28.0,6.0,Isabella Bennett,13.0,3.0
+861,Albrecht Derington,Music,2022-2023,Sycamore Ridge Unified,New York City,NY,10,223,170,Nicholas Turner,26.0,5.0,Christopher Price,2.0,6.0
+862,Doralin Claughton,Drama,2022-2023,Sycamore Ridge Unified,New York City,NY,9,430,137,Nicholas Turner,26.0,5.0,Emily Foster,39.0,6.0
+862,Doralin Claughton,Drama,2023-2024,Sycamore Ridge Unified,New York City,NY,11,439,166,Nicholas Turner,27.0,1.0,Emily Foster,40.0,2.0
+871,Gerhardt Kacheler,Sports,2022-2023,Sycamore Ridge Unified,New York City,NY,9,248,190,Sophia Reynolds,17.0,6.0,Alexander Gray,10.0,5.0
+874,Fawne Whorlow,Sports,2022-2023,Sycamore Ridge Unified,New York City,NY,10,298,180,Sophia Reynolds,17.0,6.0,Samuel Gray,33.0,2.0
+874,Fawne Whorlow,Sports,2023-2024,Sycamore Ridge Unified,New York City,NY,11,313,212,Sophia Reynolds,19.0,3.0,Samuel Gray,35.0,6.0
+875,Camala Scrivener,Other,2022-2023,Sycamore Ridge Unified,New York City,NY,9,265,144,Sophia Reynolds,17.0,6.0,Olivia Simmons,36.0,5.0
+875,Camala Scrivener,Other,2023-2024,Sycamore Ridge Unified,New York City,NY,11,260,142,Sophia Reynolds,19.0,3.0,Olivia Simmons,35.0,1.0
+884,Nevins Gras,Other,2022-2023,Sycamore Ridge Unified,New York City,NY,9,215,124,Ava Parker,35.0,5.0,Victoria Richardson,30.0,5.0
+884,Nevins Gras,Other,2023-2024,Sycamore Ridge Unified,New York City,NY,12,226,147,Ava Parker,34.0,1.0,Victoria Richardson,29.0,2.0
+887,Gwenora Scarse,Other,2022-2023,Sycamore Ridge Unified,New York City,NY,11,137,174,Nicholas Turner,21.0,2.0,Nicholas Turner,36.0,1.0
+887,Gwenora Scarse,Other,2023-2024,Sycamore Ridge Unified,New York City,NY,12,125,216,Nicholas Turner,23.0,6.0,Nicholas Turner,39.0,5.0
+899,Hanny Franiak,Sports,2022-2023,Willowbrook Heights School District,Toledo,OH,11,226,144,Nicholas Turner,27.0,3.0,Elizabeth Scott,12.0,1.0
+899,Hanny Franiak,Sports,2023-2024,Willowbrook Heights School District,Toledo,OH,12,227,194,Nicholas Turner,26.0,4.0,Elizabeth Scott,11.0,3.0
+913,Harlene Swannick,Music,2022-2023,Willowbrook Heights School District,Toledo,OH,9,430,182,Evelyn Mitchell,5.0,5.0,Daniel Morgan,9.0,6.0
+913,Harlene Swannick,Music,2023-2024,Willowbrook Heights School District,Toledo,OH,12,427,202,Evelyn Mitchell,8.0,3.0,Daniel Morgan,12.0,1.0
+919,Dew Smithen,Sports,2022-2023,Willowbrook Heights School District,Toledo,OH,11,415,169,Evelyn Mitchell,5.0,5.0,Ava Parker,40.0,6.0
+919,Dew Smithen,Sports,2023-2024,Willowbrook Heights School District,Toledo,OH,12,418,207,Evelyn Mitchell,8.0,3.0,Ava Parker,41.0,3.0
+921,Aluino Sexcey,Drama,2022-2023,Willowbrook Heights School District,Toledo,OH,10,304,154,Evelyn Mitchell,5.0,5.0,Benjamin Cooper,25.0,4.0
+921,Aluino Sexcey,Drama,2023-2024,Willowbrook Heights School District,Toledo,OH,12,317,179,Evelyn Mitchell,8.0,3.0,Benjamin Cooper,24.0,6.0
+928,Ilse Loughnan,Other,2022-2023,Willowbrook Heights School District,Toledo,OH,11,220,149,Noah Hayes,24.0,1.0,Daniel Morgan,21.0,5.0
+928,Ilse Loughnan,Other,2023-2024,Willowbrook Heights School District,Toledo,OH,10,219,181,Noah Hayes,24.0,5.0,Daniel Morgan,22.0,2.0
+931,Valida Howgill,Other,2022-2023,Willowbrook Heights School District,Toledo,OH,10,199,159,Christopher Price,15.0,1.0,Christopher Price,28.0,1.0
+931,Valida Howgill,Other,2023-2024,Willowbrook Heights School District,Toledo,OH,10,187,171,Christopher Price,15.0,6.0,Christopher Price,30.0,4.0
+933,Karly Jewiss,Drama,2022-2023,Willowbrook Heights School District,Toledo,OH,9,348,156,Christopher Price,15.0,1.0,Benjamin Cooper,23.0,1.0
+934,Addy Curzon,Drama,2022-2023,Willowbrook Heights School District,Toledo,OH,11,125,162,Alexander Gray,17.0,2.0,Alexander Gray,18.0,5.0
+934,Addy Curzon,Drama,2023-2024,Willowbrook Heights School District,Toledo,OH,11,119,159,Alexander Gray,18.0,2.0,Alexander Gray,19.0,1.0
+936,Willy Shawyers,Drama,2022-2023,Willowbrook Heights School District,Toledo,OH,9,314,129,Alexander Gray,17.0,2.0,Joshua Butler,14.0,5.0
+936,Willy Shawyers,Drama,2023-2024,Willowbrook Heights School District,Toledo,OH,12,311,120,Alexander Gray,18.0,2.0,Joshua Butler,13.0,2.0
+939,Trent Vigers,Music,2022-2023,Willowbrook Heights School District,Toledo,OH,10,182,121,Daniel Wright,27.0,2.0,Daniel Wright,15.0,3.0
+939,Trent Vigers,Music,2023-2024,Willowbrook Heights School District,Toledo,OH,12,198,169,Daniel Wright,30.0,3.0,Daniel Wright,17.0,1.0
+942,Emma Fishbourne,Music,2022-2023,Willowbrook Heights School District,Toledo,OH,10,135,133,Victoria Richardson,27.0,4.0,Victoria Richardson,24.0,2.0
+942,Emma Fishbourne,Music,2023-2024,Willowbrook Heights School District,Toledo,OH,10,172,157,Victoria Richardson,28.0,3.0,Victoria Richardson,23.0,6.0
+947,Kendall Oxbe,Sports,2022-2023,Willowbrook Heights School District,Toledo,OH,11,375,126,Aria Peterson,34.0,2.0,Logan Carter,19.0,2.0
+947,Kendall Oxbe,Sports,2023-2024,Willowbrook Heights School District,Toledo,OH,11,372,123,Aria Peterson,33.0,2.0,Logan Carter,18.0,1.0
+949,Regan Cutts,Other,2022-2023,Willowbrook Heights School District,Toledo,OH,9,155,140,Grace Murphy,18.0,1.0,Grace Murphy,39.0,1.0
+949,Regan Cutts,Other,2023-2024,Willowbrook Heights School District,Toledo,OH,11,155,148,Grace Murphy,17.0,2.0,Grace Murphy,41.0,1.0
+953,Bobby Statter,Other,2022-2023,Willowbrook Heights School District,Toledo,OH,10,428,190,Isabella Bennett,31.0,5.0,Michael Adams,23.0,1.0
+953,Bobby Statter,Other,2023-2024,Willowbrook Heights School District,Toledo,OH,12,422,174,Isabella Bennett,31.0,5.0,Michael Adams,26.0,3.0
+956,Rodrique Turnor,Other,2022-2023,Willowbrook Heights School District,Toledo,OH,11,367,195,Isabella Bennett,31.0,5.0,Sofia Reed,17.0,1.0
+956,Rodrique Turnor,Other,2023-2024,Willowbrook Heights School District,Toledo,OH,11,377,213,Isabella Bennett,31.0,5.0,Sofia Reed,19.0,2.0
+958,Walsh Covell,Other,2022-2023,Willowbrook Heights School District,Toledo,OH,9,342,179,Isabella Bennett,31.0,5.0,Abigail Nelson,7.0,1.0
+958,Walsh Covell,Other,2023-2024,Willowbrook Heights School District,Toledo,OH,11,328,201,Isabella Bennett,31.0,5.0,Abigail Nelson,9.0,6.0
+962,Titus Flindall,Music,2022-2023,Willowbrook Heights School District,Toledo,OH,10,327,129,Noah Hayes,30.0,3.0,Daniel Morgan,24.0,4.0
+962,Titus Flindall,Music,2023-2024,Willowbrook Heights School District,Toledo,OH,10,332,120,Noah Hayes,29.0,6.0,Daniel Morgan,26.0,1.0
+974,Hannie Akhurst,Music,2022-2023,Willowbrook Heights School District,Toledo,OH,9,235,170,Benjamin Cooper,3.0,6.0,Emily Foster,6.0,5.0
+974,Hannie Akhurst,Music,2023-2024,Willowbrook Heights School District,Toledo,OH,12,247,217,Benjamin Cooper,3.0,6.0,Emily Foster,9.0,1.0
+979,Kordula Freed,Drama,2022-2023,Willowbrook Heights School District,Toledo,OH,10,427,138,Charlotte Peterson,26.0,5.0,Ryan Hayes,22.0,4.0
+979,Kordula Freed,Drama,2023-2024,Willowbrook Heights School District,Toledo,OH,12,440,184,Charlotte Peterson,25.0,3.0,Ryan Hayes,23.0,4.0
+990,Leicester Hummerston,Sports,2022-2023,Willowbrook Heights School District,Toledo,OH,9,492,178,Ava Parker,8.0,4.0,Mia Richardson,3.0,4.0
+990,Leicester Hummerston,Sports,2023-2024,Willowbrook Heights School District,Toledo,OH,12,487,163,Ava Parker,10.0,5.0,Mia Richardson,5.0,5.0
+992,Lenora Heppner,Sports,2022-2023,Willowbrook Heights School District,Toledo,OH,10,162,141,Aria Peterson,20.0,3.0,Aria Peterson,26.0,4.0
+992,Lenora Heppner,Sports,2023-2024,Willowbrook Heights School District,Toledo,OH,11,170,166,Aria Peterson,20.0,3.0,Aria Peterson,29.0,6.0
+993,Glynis Redwood,Other,2022-2023,Willowbrook Heights School District,Toledo,OH,9,261,187,Aria Peterson,20.0,3.0,Olivia Simmons,3.0,1.0
+993,Glynis Redwood,Other,2023-2024,Willowbrook Heights School District,Toledo,OH,10,259,172,Aria Peterson,20.0,3.0,Olivia Simmons,5.0,4.0
+996,Rhoda Galpen,Debate,2022-2023,Willowbrook Heights School District,Toledo,OH,10,375,153,Chloe Rivera,32.0,3.0,Avery Foster,28.0,5.0
+996,Rhoda Galpen,Debate,2023-2024,Willowbrook Heights School District,Toledo,OH,11,365,176,Chloe Rivera,33.0,2.0,Avery Foster,31.0,6.0
